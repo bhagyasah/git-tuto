@@ -1,0 +1,1 @@
+git log => is show the commit history
